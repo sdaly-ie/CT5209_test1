@@ -2,3 +2,5 @@
 Cloud DevOps Practical 2
 
 Changed in IntelliJ
+
+Changed from GitHub Website
